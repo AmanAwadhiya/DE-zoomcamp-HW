@@ -11,7 +11,7 @@ https://us-central1-dlthub-analytics.cloudfunctions.net/data_engineering_zoomcam
 🔹 **Data format:** Paginated JSON (1,000 records per page).  
 🔹 **API Pagination:** Stop when an empty page is returned.
 
-
+*Explantion file : [DataIngestion_dlt](DataIngestion_dlt.ipynb)*
 # Q1: dlt Version
 
 ```
